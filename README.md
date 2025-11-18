@@ -1,4 +1,4 @@
-﻿# Давлат Эркабоев - Golang Developer
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1830837e-1a61-4148-ae07-8b60460f6256" />﻿# Давлат Эркабоев - Golang Developer
 
 - **Phone:** +992 008 80 04 45
 - **Email:** [davlat7747@gmail.com](mailto:davlat7747@gmail.com)
@@ -10,11 +10,10 @@ Motivated and results-oriented software developer with a strong focus on buildin
 
 ## Work Experience
 
-### Apartment Rental
+ ### Apartment Rental
 **Golang Developer**  
 _May 2024 – September 2024_  
 Stack: Golang, PostgreSQL  
-Work experience: 1 year+
 
 ### Bus Depot — Golang Developer
 **Golang Developer** 
@@ -27,10 +26,13 @@ Stack: Go, PostgreSQL
 - Completed a comprehensive GO Developer (Junior+) course, culminating in a feature-rich final project titled "Apartment Rental."
 - Completed a comprehensive Go Developer (Junior+) course delivered by Minds.io and DushanbeCity.
 
+  Work experience through personal projects: 1 year+
+
 ### Sport Programming
 **C++, Python Developer**  
 _September 2022 – Present_  
 Stack: C++, Python
+
 
 ## Technical Skills
 
@@ -44,6 +46,7 @@ Stack: C++, Python
 **The Branch of Moscow State University in Dushanbe**  
 Currently pursuing a Bachelor of Science in Applied Mathematics and Informatics  
 4rd year student (2022 - 2026)
+
 
 
 
