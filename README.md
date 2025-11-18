@@ -17,6 +17,7 @@ Stack: Golang, PostgreSQL
 Work experience: 1 year+
 
 - Completed a comprehensive GO Developer (Junior+) course, culminating in a feature-rich final project titled "Apartment Rental."
+- Completed a comprehensive Go Developer (Junior+) course delivered by Minds.io and DushanbeCity.
 
 ### Sport Programming
 **C++, Python Developer**  
@@ -35,4 +36,5 @@ Stack: C++, Python
 **The Branch of Moscow State University in Dushanbe**  
 Currently pursuing a Bachelor of Science in Applied Mathematics and Informatics  
 4rd year student (2022 - 2026)
+
 
