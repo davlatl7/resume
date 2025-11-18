@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1830837e-1a61-4148-ae07-8b60460f6256" />﻿# Давлат Эркабоев - Golang Developer
+﻿# Давлат Эркабоев - Golang Developer
 
 - **Phone:** +992 008 80 04 45
 - **Email:** [davlat7747@gmail.com](mailto:davlat7747@gmail.com)
@@ -46,6 +46,7 @@ Stack: C++, Python
 **The Branch of Moscow State University in Dushanbe**  
 Currently pursuing a Bachelor of Science in Applied Mathematics and Informatics  
 4rd year student (2022 - 2026)
+
 
 
 
